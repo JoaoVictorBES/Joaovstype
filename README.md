@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is João Victor and I'm a Java Developer, from SP, Brazil;<br><br>- I'm focused on Java 🖥️<br><br>- I'm currently learning English 📚</p>
+<p align="left">- My name is João Victor and I'm a Java Developer, from SP, Brazil;<br><br>- I'm focused on <b>Java<b> 🖥️<br><br>- I'm currently learning English 📚</p>
 
 ###
 
